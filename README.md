@@ -11,6 +11,7 @@ Tela de Game Over: Avatar do mário derrotado com o fundo azul claro (céu), nuv
 Para executar o jogo localmente, é necessário:
 - Um navegador web moderno (Google Chrome, Mozilla Firefox, Microsoft Edge, etc.)
 - Editor de código (opcional, para visualizar ou modificar o código-fonte)
+- Criar pastas para cada seção: "css", "js" e "imagens" ou excluir as pastas e alterar a busca dentro do arquivo HTML.
 
 Este projeto se trata de um trabalho acadêmico baseado no vídeo do link a seguir: https://www.youtube.com/watch?v=r9buAwVBDhA&t=1s
 Este projeto está licenciado sob a Licença CC0 1.0 Universal. Para mais detalhes, consulte o arquivo LICENSE.
